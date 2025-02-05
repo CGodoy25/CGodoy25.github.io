@@ -1,3 +1,3 @@
 # CGodoy25.github.io
 
-theme: Architect
+jekyll-theme: Architect
